@@ -1,0 +1,92 @@
+html { 
+    display: flex;
+    font-size: 32px;
+}
+
+h1 {
+    font-size: 40px;
+    }
+h2 {
+    font-size: 32px;
+    font-family: 'Domine', serif;
+    color: #5E2129;
+   }
+
+main {
+    background-color: #CCCCCC;
+    width: fit-content;
+    height: auto;
+    padding: 0%;
+    margin: auto;
+}
+
+body {
+    background-color: #CCCCCC;
+    
+}
+
+article {
+    font-size: 24px;
+    line-height: 24px;
+}
+section {
+    margin-left: 10mm;
+}
+
+
+#img-div {
+    margin: 15px 0 5px 0;
+  }
+
+#title {
+    font-size: 42px;
+    font-family: 'Domine', serif;
+    color: #5E2129;
+}
+
+.centrar-texto {
+    text-align: center;
+}
+
+.left {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 24px;
+    margin-left: 0px;
+
+}
+
+.right {
+    display: flex;
+    justify-content: flex-end;}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+#image {
+  padding: 10px;
+  margin: 0;
+  width: 1280px;
+  height: auto;
+    
+}
+.border-round
+{border-radius: 50%;
+    margin-right: 10mm;
+    width: 180px;
+    height: 180px;
+    cursor: pointer;
+    background-repeat: no-repeat;}
+
+.paddin-right {
+    padding-right: 100mm;
+
+}
+
+footer {
+    font-size: 20px;
+    margin-top: 20mm;
+}
+
